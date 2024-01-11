@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url(fondos.jpg); /* Reemplaza 'tu-imagen-de-fondo.jpg' con la URL o ruta de tu imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin: 0;
+    color: #850f0f; /* Color del texto */
+}
+
+.content {
+    padding: 50px;
+}
+
+h1 {
+    color: #c91313; /* Color rosa */
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+video {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
+}
